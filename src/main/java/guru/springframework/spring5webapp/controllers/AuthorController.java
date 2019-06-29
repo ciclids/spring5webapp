@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Created by jt on 5/18/17.
+ * Created by max $now
  */
 @Controller
 public class AuthorController {
